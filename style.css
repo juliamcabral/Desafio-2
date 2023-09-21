@@ -1,0 +1,89 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins;
+}
+
+header {
+    height: 132px;
+    background-color: #A9C487;
+}
+
+li {
+    display: inline-block;
+    color: white;
+    font-size: 32px;
+    margin-left: 138px;
+    margin-top: 42px;
+
+}
+
+.container_div_main {
+    display: inline-block;
+    margin-left: 88px;
+    margin-top: 112px;
+}
+
+img {
+    width: 200px;
+}
+
+.container_titulo_item {
+    margin-left: 70px;
+    margin-top: 30px;
+
+}
+
+.container_form_principal {
+    margin-left: 60px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.container_botao_main{
+    margin-left: 50px;
+    margin-bottom: 134px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #83B735;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+footer {
+    height: 150px;
+    background-color: #A9C487;
+
+}
+
+.titulo_footer {
+    margin-left: 60px;
+    padding-top: 30px;
+    color: white;
+    font-size: 32px;
+}
+
+.container_div_footer {
+    display: inline-block;
+    margin-left: 60px;
+    color: white;
+    margin-top: 30px;
+
+}
+
+.container_botao_form{
+    background-color: white;
+    color: #83B735;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 40px;
+    border: none;
+    border-radius: 4px;
+}
